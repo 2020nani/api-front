@@ -67,4 +67,4 @@ Rode o  front em seu computador na porta 3000 sem utilizar o docker com o seguin
 - `npm run start` ou
 - `yarn start`
 
-Agora e so se divertir :)
+Agora e so se divertir :) e visualizar o trabalho em funcionamento 
